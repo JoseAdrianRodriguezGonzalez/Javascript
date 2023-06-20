@@ -1,11 +1,41 @@
-let numero =5.34;
+/*let a = 5;
+let b= 2;
 
 
-let palabra = "Hola mundo";
+let usuario= "José";
 
-let respuesta = true;
+console.log(a+b)
 
-const PI =3.14;
-numero = 54;
-palabra ='adios';
-console.log(palabra)
+console.log(a-b)
+
+console.log(a*b)
+
+console.log(a/b)
+
+console.log(a%b)
+
+console.log("Hola "+usuario);
+*/
+let a =5;/*
+console.log(a);
+console.log(a++);
+console.log(a);
+console.log(++a);
+*/
+/*
+console.log(a--);
+console.log(a)
+console.log(--a);
+*/
+
+let A=10;
+A+=3;
+console.log(A);
+A-=3;
+console.log(A);
+A*=3;
+console.log(A);
+A/=3;
+console.log(A);
+A%=3;
+console.log(A);
